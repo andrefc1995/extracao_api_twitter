@@ -1,1 +1,8 @@
 # extracao_api_twitter
+
+Neste projeto de Engenharia de Dados, pude praticar minhas habilidades com Python.
+
+Fiz a extração de dados da API do Twitter;
+Criei um Hook para fazer um conexão;
+Criei um Operador para extrair e armazenar dados;
+Criei um DAG para ser orquestrado pelo Airflow;
